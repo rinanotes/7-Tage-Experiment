@@ -1,0 +1,18 @@
+body{
+	background-color: whitesmoke;
+}
+
+h1{
+font-size: 30px;
+color: teal;
+}
+
+h2{
+color: indianred;
+font-size: 20px;
+}
+
+.big{
+font-size: 60px;
+
+}

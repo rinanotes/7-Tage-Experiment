@@ -1,0 +1,75 @@
+body{
+	margin: 0;
+}
+
+header{background-color:#DEE9D4 white;
+text-align: center ;
+padding-top: 15px;
+padding-bottom: 30px;
+}
+
+h1,h2{font-family: 'Roboto Mono', monospace;}
+
+header h1{
+	color:black ;
+	font-size: 40px;
+}
+
+
+
+
+header p{
+	color: black;
+	font-family: Roboto Mono, Arial,  monospace;
+}
+
+header img{ 
+border-radius: 170px; 
+width: 300px;
+border: 20px solid #black;
+
+}
+
+
+main{max-width: 900px;
+	margin: 0 auto;
+	padding: 20px;
+
+}
+
+main img{
+	max-width: 100%;
+}
+
+h2{
+	font-size: 35px;
+	color: black;
+	margin: 70px o 10px;
+}
+
+body p{
+	font-size: 20px;
+	font-family: Roboto Mono, monospace;
+	line-height: 30px;
+}
+
+a:hover{
+	color: darkblue;
+	background-color: transparent;
+}
+
+footer{
+	background-color:#DEE9D4;
+	text-align: center ;
+	padding-bottom: 50px;
+	padding-top: 50px;
+	
+
+}
+
+p.caption{
+	color: #999999;
+	text-align: center;
+	font-size: 15px;
+}
+
