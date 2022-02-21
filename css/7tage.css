@@ -6,6 +6,8 @@ header{background-color:#DEE9D4 white;
 text-align: center ;
 padding-top: 15px;
 padding-bottom: 30px;
+padding-right: 30px;
+padding-left: 30px;
 }
 
 h1,h2{font-family: 'Roboto Mono', monospace;}
