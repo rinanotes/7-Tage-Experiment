@@ -1,7 +1,6 @@
-
-@media screen and (max-width:320px) {
   
-
+<code>
+@media screen and (max-width: 481px){
 body{
 	margin: 0;
 }
@@ -126,4 +125,5 @@ p.caption{
 	font-size: 15px;
 }
 
-}‚
+}
+</code>
